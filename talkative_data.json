@@ -1,0 +1,30 @@
+{
+  "users": {
+    "Tunji": {
+      "password": "theadetunjis",
+      "messages": [
+        {
+          "from": "j.tunji",
+          "to": "Tunji",
+          "text": "Hi",
+          "timestamp": "2025-12-30T14:04:31.966666",
+          "read": false
+        }
+      ],
+      "status": "Hey there! I am using Talkative"
+    },
+    "j.tunji": {
+      "password": "theadetunjis",
+      "messages": [
+        {
+          "from": "j.tunji",
+          "to": "Tunji",
+          "text": "Hi",
+          "timestamp": "2025-12-30T14:04:31.966666",
+          "read": false
+        }
+      ],
+      "status": "Hey there! I am using Talkative"
+    }
+  }
+}
